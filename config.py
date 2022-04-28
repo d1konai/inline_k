@@ -1,0 +1,5 @@
+TOKEN = "1951377442:AAGyXJMXJgUzCT0sUTfCoemu2mu4XASNyJM"
+URL_BASKETBALL = "https://jut.su/kuroko-no-basuke/"
+URL_BOG = "https://jut.su/nora-gami/"
+URL_VOLIBALL = "https://jut.su/haaikyu/"
+URL_ZAVTRA = "https://jut.su/nagi-no-asu-kara/"
